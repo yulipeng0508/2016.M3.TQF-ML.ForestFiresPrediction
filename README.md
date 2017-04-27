@@ -34,7 +34,7 @@ Calculate and compare accuracies of different methods. Then choose the best one 
 You can find the full version of the [proposal](Project%20Proposal.pdf) here.
 
 ### Implementation
-[Project Implementation](Project.ipynb)
+You can check the whole [project implementation](Project.ipynb) here.
 
 ### Test Results
 Firstly, I have tried logistic regression and SVM methods. \
