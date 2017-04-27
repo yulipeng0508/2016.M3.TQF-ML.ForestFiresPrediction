@@ -33,7 +33,7 @@ Calculate and compare accuracies of different methods. Then choose the best one 
 ### Proposal
 You can find the full version of the [proposal](Project%20Proposal.pdf) here.
 
-## Implementation
+### Implementation
 * [Project Implementation](Project.ipynb)
 
 ### Test Results
